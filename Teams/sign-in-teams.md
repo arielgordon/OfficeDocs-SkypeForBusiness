@@ -19,7 +19,7 @@ appliesto:
   - Microsoft Teams
 ---
 
-Sign in to Microsoft Teams using modern authentication
+Sign in to Microsoft Teams
 ==========================
 
 Microsoft recommends that organizations use recent versions of Windows 10 with either Hybrid Domain Join or Azure AD Join configuration. Using recent versions ensures that users’ accounts are primed in Windows’ Web Account Manager, which in turn enables single sign-on to Teams and other Microsoft applications. Single sign-on provides a better user experience (silent sign-in) and a better security posture.
